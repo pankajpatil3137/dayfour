@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dayfour/static/css/main.3e6e442e.css",
+    "main.js": "/dayfour/static/js/main.c728ef9c.js",
+    "index.html": "/dayfour/index.html",
+    "main.3e6e442e.css.map": "/dayfour/static/css/main.3e6e442e.css.map",
+    "main.c728ef9c.js.map": "/dayfour/static/js/main.c728ef9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6e442e.css",
+    "static/js/main.c728ef9c.js"
+  ]
+}
